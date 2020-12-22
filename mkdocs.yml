@@ -1,0 +1,8 @@
+site_name: "doc-demo02e42424"
+site_description: "sssss"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
